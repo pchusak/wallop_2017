@@ -1,0 +1,45 @@
+[p LITE_MODE AUTOSTATIC IEEE_DBL IEEE_FLT PIC14 PIC14E ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F1937 ]
+[d frameptr 6 ]
+"10 C:\Program Files (x86)\Microchip\xc8\v1.43\sources\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"4 C:\Program Files (x86)\Microchip\xc8\v1.43\sources\common\Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+"6 C:\Program Files (x86)\Microchip\xc8\v1.43\sources\pic\eeprom.c
+[v _eecpymem eecpymem `(v  1 e 1 0 ]
+"39
+[v _memcpyee memcpyee `(v  1 e 1 0 ]
+"2 D:\chai_project_2017\wallop_2017\code_new_2017\code_2017_01\wallop_2017.X\func1.c
+[v _delay_ms delay_ms `(v  1 e 1 0 ]
+"39 D:\chai_project_2017\wallop_2017\code_new_2017\code_2017_01\wallop_2017.X\main.c
+[v _main main `(v  1 e 1 0 ]
+"3320 C:\Program Files (x86)\Microchip\xc8\v1.43\include\pic16f1937.h
+[v _ANSELA ANSELA `VEuc  1 e 1 @396 ]
+"3378
+[v _ANSELB ANSELB `VEuc  1 e 1 @397 ]
+"3506
+[v _ANSELE ANSELE `VEuc  1 e 1 @400 ]
+"8307
+[v _IRCF0 IRCF0 `VEb  1 e 0 @1227 ]
+"8309
+[v _IRCF1 IRCF1 `VEb  1 e 0 @1228 ]
+"8311
+[v _IRCF2 IRCF2 `VEb  1 e 0 @1229 ]
+"8313
+[v _IRCF3 IRCF3 `VEb  1 e 0 @1230 ]
+"39 D:\chai_project_2017\wallop_2017\code_new_2017\code_2017_01\wallop_2017.X\main.c
+[v _main main `(v  1 e 1 0 ]
+{
+"57
+} 0
+"2 D:\chai_project_2017\wallop_2017\code_new_2017\code_2017_01\wallop_2017.X\func1.c
+[v _delay_ms delay_ms `(v  1 e 1 0 ]
+{
+"4
+[v delay_ms@i i `ui  1 a 2 3 ]
+"2
+[v delay_ms@dat dat `ui  1 p 2 0 ]
+"9
+} 0
